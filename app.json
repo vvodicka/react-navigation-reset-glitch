@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "react-navigation-reset-glitch",
+    "slug": "react-navigation-reset-glitch",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "react-navigation-reset-glitch"
+}
